@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.ops4j.pax.jdbc:pax-jdbc-oracle:1.0.0" type="repository">
+    <properties maven-id="org.ops4j.pax.jdbc:pax-jdbc-oracle:1.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ops4j/pax/jdbc/pax-jdbc-oracle/1.0.0/pax-jdbc-oracle-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.enterprise/4.2.0/org.osgi.enterprise-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
